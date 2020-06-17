@@ -1,0 +1,53 @@
+/*
+{
+    background-color: lightgray;
+}
+*/
+/*
+body {
+    background-color: lightgray;
+}
+div *{
+    background-color: pink;
+}
+
+p {
+    background-color:red;
+}
+p.error{
+    color: lightgreen;
+}
+.success.feedback
+{
+    color: chocolate;
+    border-width: 2px;
+    border-color: greenyellow;
+    border-style: solid;
+    border:2px solid greenyellow;
+} 
+
+div p{
+    background-color: yellow;
+}
+
+p.error {
+    background-color: yellow;
+}
+*/
+#container > p {
+    background-color: yellow;
+}
+#container > p span{
+    font-weight: bold;
+}
+a[href="www.google.com"]{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+
+}
+a[href$=".pdf"] {
+    font-weight: bold;
+    font-size: 20px;
+    color: green;
+}
