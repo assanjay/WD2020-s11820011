@@ -1,0 +1,21 @@
+img.one{
+    background-color: blue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 20px;
+    display: block;
+}
+img.two{
+    background-color: skyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 200px;
+    display: block;
+}
+img.tiga{
+    background-color: blue;
+    padding: 20px;
+    border: 10px solid red;
+    margin-left: 380px;
+    display: block;
+}
